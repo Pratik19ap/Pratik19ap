@@ -1,6 +1,6 @@
 Hi there!
 
-I am Anshuman Pratik and currently pursuing B.Tech-EEE to gain deep understanding of electrical machines and Power Systems.
+I am Anshuman Pratik and currently pursuing B.Tech-EEE to gain deep understanding of Electrical machines and Power Electronics.
 I am a Data Science and ML Enthusiast.
 - 🌱 I’m currently learning Python, MySQL and Machine Learning.
 - 💞️ I’m looking to collaborate & connect on LinkedIN
