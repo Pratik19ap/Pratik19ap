@@ -2,11 +2,11 @@
 
 
 Hi there!
-I am Anshuman Pratik and currently pursuing B.Tech-EEE to gain deep understanding of Electrical machines and Power Electronics.
+I am Anshuman Pratik and currently pursuing B.Tech-EEE to gain deep understanding of *Electrical Systems and Power Electronics.*
 I am a Data Science and ML Enthusiast.
-- 🌱 I’m currently learning Data Science and Machine Learning.
-- 💞️ I’m looking to collaborate & connect with Developers and Creators.
-- 📫 Would love to connect with You!
+- 🌱 I’m currently learning **Data Science and Machine Learning.**
+- 💞️ I’m looking to collaborate & connect with **Developers and Creators.**
+- 📫 Would love to **connect** with You!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
