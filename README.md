@@ -2,7 +2,7 @@
 
 
 Hi there!
-I am Anshuman Pratik and currently pursuing B.Tech-EEE to gain deep understanding of *Electrical Systems and Power Electronics.*
+I am Anshuman Pratik and currently pursuing B.Tech from VIT to gain deep understanding of *Data Science and Embedded Systems.*
 I am a Data Science and ML Enthusiast.
 - 🌱 I’m currently learning **Data Science and Machine Learning.**
 - 💞️ I’m looking to collaborate & connect with **Developers and Creators.**
