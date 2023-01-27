@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/106539413/195505735-d8acefb0-b01e-405d-a36d-9c40e70d12a7.jpg" alt="horizon hero banner"/>
+![Purple   Black Futuristic Technology LinkedIn Banner](https://user-images.githubusercontent.com/106539413/215010196-9069e996-9ac3-4765-8d98-aa65000448e8.jpg)
+
 
 
 Hi there!
